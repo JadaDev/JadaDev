@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JadaDev
+- 👋 Hi, I’m @JadaDev, I'm currently 28 Years old from Tunisia, Sousse.
 - 👀 I’m interested in TrinityCore world of warcraft emulation and Discord Bots
 - 🌱 I’m currently Interested in This Languages (Lua,JS,SQL,C#,VB,C++,PY,PHP,GD)
 - 💞️ I’m looking to collaborate on WoW Projects or WoW Discord Related Bots.
